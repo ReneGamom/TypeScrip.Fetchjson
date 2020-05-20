@@ -1,0 +1,23 @@
+{
+  "name": "TypeScrip.Fetchjson",
+  "version": "1.0.0",
+  "description": "Formation typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneGamom/TypeScrip.Fetchjson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReneGamom/TypeScrip.Fetchjson/issues"
+  },
+  "homepage": "https://github.com/ReneGamom/TypeScrip.Fetchjson#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
