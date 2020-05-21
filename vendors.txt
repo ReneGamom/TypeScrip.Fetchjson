@@ -2,21 +2,3 @@ Astech douala Cameroun
 DHL 	Douala Cameroun
 PAD	Limbe Cameroun
 SNH	douala Cameroun
-
-
-Astech douala Cameroun
-DHL 	Douala Cameroun
-PAD	Limbe Cameroun
-SNH	douala Cameroun
-
-•	Rédaction des documents techniques
-•	Planification des Travaux de développement
-•	Répartition des Tâches au sein de l'équipe de développement
-•	Participe aux études projet
-•	Participe aux développements
-•	Assure le respect des procédures et des normes de développement
-•	Propose des améliorations si nécessaires
-•	S’assure que les livraisons sont complètes et fonctionnelles
-•	Rédige et exécute les plans de test
-•	Mise en oeuvre d’applications multi sites distribuées de Tracking logistique et
-Site web Goalsv2 (multi clients Mvs.net 2008) opérationnel.
